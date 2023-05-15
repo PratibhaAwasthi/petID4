@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": "petItem4",
+      "name": "SmartyKat Catnip",
+      "company": "SmartyKat",
+      "price": 4.99,
+      "description": "SmartyKat Catnip is a product that is designed to provide your cat with hours of entertainment. Made from high-quality, organic catnip, this product is perfect for cats of all ages and sizes. The catnip is carefully cultivated and harvested, ensuring that it retains its potency and aroma. SmartyKat Catnip comes in a variety of forms, including loose leaf, sprays, and toys, allowing you to choose the product that works best for your cat. It is a safe and natural way to keep your cat entertained and happy, while also providing them with the exercise and stimulation they need to stay healthy. SmartyKat Catnip is a must-have for any cat lover, and is sure to become a favorite of your feline friend.",
+      "category": "Cat",
+      "shipping": true,
+      "stock": 1,
+      "reviews": 23,
+      "stars": 2.8,
+      "image": [
+        {
+          "id": "randomid1",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/a0/12/ba/a012ba70ac0043f38bdf71cd6d4a17dc.jpg",
+          "filename": "prod-1.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid2",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/a0/12/ba/a012ba70ac0043f38bdf71cd6d4a17dc.jpg",
+          "filename": "prod-2.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid3",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/a0/12/ba/a012ba70ac0043f38bdf71cd6d4a17dc.jpg",
+          "filename": "prod-3.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid4",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/564x/a0/12/ba/a012ba70ac0043f38bdf71cd6d4a17dc.jpg",
+          "filename": "prod-4.png",
+          "size": 1080,
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
